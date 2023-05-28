@@ -12,7 +12,7 @@
             margin: 0;
             padding: 20px;
         }
-        .card-header{
+        .card-header:hover{
             font-weight: bold;
             font-size: 25px;
         }
