@@ -19,19 +19,21 @@
     </style>
 </head>
 <body>
-<div class="card">
-  <div class="card-header">View Detials</div>
-  <div class="card-body">
+<center>
+    <div class="card">
+         <div class="card-header">View Detials</div>
+            <div class="card-body">
   
-        <div class="card-body" style='font-weight: bold;'>
-        <p class="card-title">Company Name : {{ $company->name }}</p>
-        <p class="card-text">Company Email : {{ $company->email }}</p>
-        <p class="card-text">Company Address : {{ $company->address }}</p>
-  </div>
+              <div class="card-body" style='font-weight: bold;'>
+                  <p class="card-title">Company Name : {{ $company->name }}</p>
+                  <p class="card-text">Company Email : {{ $company->email }}</p>
+                  <p class="card-text">Company Address : {{ $company->address }}</p>
+              </div>
       
-    </hr>
+          </hr>
   
-  </div>
-</div>
+        </div>
+    </div>
+    </center>
     </body>
 <html>
