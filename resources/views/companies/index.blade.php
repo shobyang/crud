@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-lg-12 margin-tb">
                 <div class="pull-left">
-                    <h2>BASIC CRUD </h2>
+                    <h2 style="text-align: center">BASIC CRUD </h2>
                 </div>
                 <div class="pull-right mb-2">
                     <a class="btn btn-success" href="{{ route('companies.create') }}"> Create Company</a>
@@ -33,7 +33,7 @@
         @endif
         <table class="table table-hover">
             <thead>
-                <tr>
+                <tr style="background-color: black; color: white;">
                     <th>S.No</th>
                     <th>Company Name</th>
                     <th>Company Email</th>
