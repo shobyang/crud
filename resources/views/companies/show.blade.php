@@ -34,6 +34,6 @@
   
         </div>
     </div>
-    </center>
-    </body>
+</center>
+</body>
 <html>

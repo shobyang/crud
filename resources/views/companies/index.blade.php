@@ -12,6 +12,12 @@
             margin: 0;
             padding: 20px;
         }
+        .pull-left{
+            margin-top: 25px;
+        }
+        .table{
+            background: linear-gradient(90deg, rgba(180,132,212,1) 0%, rgba(212,136,237,1) 46%, rgba(196,167,127,1) 100%);
+        }
     </style>
 </head>
 <body>
